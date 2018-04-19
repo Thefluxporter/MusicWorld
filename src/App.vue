@@ -1,6 +1,6 @@
 <template lang="pug">
   #app
-    img(src='./assets/logo.png')
+    img(src='https://thefluxporter.github.io/MusicWorld/dist/build.js/logo.png')
     h1 MusicWorld UwU
     h2 Aprendiendo lo basico de la libreria de JavaScript Vue.js
     p Single page app, la cual va a obtener una lista de los top 100 de artistas del momento de diferentes paises junto a enlaces c/u de ellos en la pagina last.fm
